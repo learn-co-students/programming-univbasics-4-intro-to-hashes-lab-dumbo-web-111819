@@ -13,8 +13,7 @@ task is to implement a set of methods. Each method will require you to complete
 some basic hash creation and modification. Use `learn` and follow the test
 suite messages as you work through your solution.
 
-## Instructions
-
+## Instructionslear 
 Code your solution in the `intro_to_ruby_hashes_lab.rb` file located in the main
 directory of this lab.
 
